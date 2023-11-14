@@ -25,7 +25,7 @@ To run the game, you need to have Node.js installed on your computer. Clone the 
 
 ```bash
 node main.js
-
+```
 
 # Project Structure
 - `main.js`: The entry point of the application containing all the game logic.
